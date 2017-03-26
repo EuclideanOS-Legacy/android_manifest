@@ -70,8 +70,6 @@
   <project path="packages/apps/Contacts" name="DirtyUnicorns/android_packages_apps_Contacts" remote="github" revision="n7x" />
   <remove-project name="platform/packages/apps/ContactsCommon" />
   <project path="packages/apps/ContactsCommon" name="DirtyUnicorns/android_packages_apps_ContactsCommon" remote="github" revision="n7x" />
-  <remove-project name="platform/packages/apps/DeskClock" />
-  <project path="packages/apps/DeskClock" name="DirtyUnicorns/android_packages_apps_DeskClock" remote="github" revision="n7x" />
   <remove-project name="platform/packages/apps/Launcher3" />
   <project path="packages/apps/Launcher3" name="DirtyUnicorns/android_packages_apps_Launcher3" remote="github" revision="n7x" />
   <project path="packages/apps/OmniStyle" name="PureNexusProject/android_packages_apps_OmniStyle" remote="github" revision="n-mr1" /> 
