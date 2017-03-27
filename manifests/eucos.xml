@@ -74,7 +74,7 @@
   <remove-project name="platform/packages/apps/ContactsCommon" />
   <project path="packages/apps/ContactsCommon" name="DirtyUnicorns/android_packages_apps_ContactsCommon" remote="github" revision="n7x" />
   <remove-project name="platform/packages/apps/Gallery2" />
-  <project path="packages/apps/Gallery2" name="OmniROM/android_packages_apps_Launcher3" remote="github" revision="android-7.1" />
+  <project path="packages/apps/Gallery2" name="OmniROM/android_packages_apps_Gallery2" remote="github" revision="android-7.1" />
   <remove-project name="platform/packages/apps/Launcher3" />
   <project path="packages/apps/Launcher3" name="OmniROM/android_packages_apps_Launcher3" remote="github" revision="android-7.1" />
   <remove-project name="platform/packages/apps/MusicFX" />
