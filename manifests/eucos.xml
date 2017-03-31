@@ -66,7 +66,7 @@
   <remove-project name="platform/packages/apps/Bluetooth" />
   <project path="packages/apps/Bluetooth" name="PureNexusProject/android_packages_apps_Bluetooth" groups="pdk-cw-fs,pdk-fs" remote="github" revision="n-mr1" />
   <remove-project name="platform/packages/apps/Calendar" />
-  <project path="packages/apps/Calendar" name="DirtyUnicorns/android_packages_apps_Calendar" remote="github" revision="n7x" />
+  <project path="packages/apps/Calendar" name="OmniROM/android_packages_apps_Calendar" remote="github" revision="android-7.1" />
   <remove-project name="platform/packages/apps/CellBroadcastReceiver" />
   <project path="packages/apps/CellBroadcastReceiver" name="PureNexusProject/android_packages_apps_CellBroadcastReceiver" groups="pdk-fs" remote="github" revision="n-mr1" />
   <remove-project name="platform/packages/apps/Contacts" />
