@@ -73,6 +73,7 @@
   <project path="packages/apps/Contacts" name="DirtyUnicorns/android_packages_apps_Contacts" remote="github" revision="n7x" />
   <remove-project name="platform/packages/apps/ContactsCommon" />
   <project path="packages/apps/ContactsCommon" name="DirtyUnicorns/android_packages_apps_ContactsCommon" remote="github" revision="n7x" />
+  <project path="packages/apps/DSPManager" name="OmniROM/android_packages_apps_DSPManager" remote="github" revision="android-7.1" />
   <remove-project name="platform/packages/apps/Gallery2" />
   <project path="packages/apps/Gallery2" name="OmniROM/android_packages_apps_Gallery2" remote="github" revision="android-7.1" />
   <remove-project name="platform/packages/apps/Launcher3" />
