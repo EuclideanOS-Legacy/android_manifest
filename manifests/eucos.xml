@@ -73,6 +73,8 @@
   <project path="packages/apps/Contacts" name="DirtyUnicorns/android_packages_apps_Contacts" remote="github" revision="n7x" />
   <remove-project name="platform/packages/apps/ContactsCommon" />
   <project path="packages/apps/ContactsCommon" name="DirtyUnicorns/android_packages_apps_ContactsCommon" remote="github" revision="n7x" />
+  <remove-project name="platform/packages/apps/Dialer" />
+  <project path="packages/apps/Dialer" name="OmniROM/android_packages_apps_Dialer" remote="github" revision="android-7.1" />
   <project path="packages/apps/DSPManager" name="OmniROM/android_packages_apps_DSPManager" remote="github" revision="android-7.1" />
   <remove-project name="platform/packages/apps/Gallery2" />
   <project path="packages/apps/Gallery2" name="OmniROM/android_packages_apps_Gallery2" remote="github" revision="android-7.1" />
@@ -85,7 +87,7 @@
   <remove-project name="platform/packages/apps/PackageInstaller" />
   <project path="packages/apps/PackageInstaller" name="PureNexusProject/android_packages_apps_PackageInstaller" groups="pdk-fs" remote="github" revision="n-mr1" />
   <remove-project name="platform/packages/apps/PhoneCommon" />
-  <project path="packages/apps/PhoneCommon" name="DirtyUnicorns/android_packages_apps_PhoneCommon" remote="github" revision="n7x" />
+  <project path="packages/apps/PhoneCommon" name="OmniROM/android_packages_apps_PhoneCommon" remote="github" revision="android-7.1" />
   <project path="packages/apps/Phonograph" name="OmniROM/android_packages_apps_Phonograph" remote="github" revision="android-7.1" /> 
   <project path="packages/apps/PureSettings" name="android_packages_apps_PureSettings" remote="eucos" />
   <remove-project name="platform/packages/apps/Settings" />
