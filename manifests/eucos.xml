@@ -74,7 +74,6 @@
   <remove-project name="platform/packages/apps/ContactsCommon" />
   <project path="packages/apps/ContactsCommon" name="DirtyUnicorns/android_packages_apps_ContactsCommon" remote="github" revision="n7x" />
   <remove-project name="platform/packages/apps/Phone" />
-  <project path="packages/apps/Dialer" name="DirtyUnicorns/android_packages_apps_Dialer" remote="github" revision="n7x" />
   <project path="packages/apps/DSPManager" name="OmniROM/android_packages_apps_DSPManager" remote="github" revision="android-7.1" />
   <remove-project name="platform/packages/apps/Gallery2" />
   <project path="packages/apps/Gallery2" name="OmniROM/android_packages_apps_Gallery2" remote="github" revision="android-7.1" />
@@ -145,7 +144,7 @@
   <remove-project name="platform/packages/services/Telecomm" />
   <project path="packages/services/Telecomm" name="PureNexusProject/android_packages_services_Telecomm" groups="pdk-cw-fs,pdk-fs" remote="github" revision="n-mr1" />
   <remove-project name="platform/packages/services/Telephony" />
-  <project path="packages/services/Telephony" name="PureNexusProject/android_packages_services_Telephony" groups="pdk-cw-fs,pdk-fs" remote="github" revision="n-mr1" />
+  <project path="packages/services/Telephony" name="DirtyUnicorns/android_packages_services_Telephony" groups="pdk-cw-fs,pdk-fs" remote="github" revision="n7x" />
 
   <!-- Substratum -->
   <project path="packages/apps/ThemeInterfacer" name="substratum/interfacer" remote="github" revision="n-rootless" />
