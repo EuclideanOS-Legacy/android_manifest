@@ -80,7 +80,7 @@
   <remove-project name="platform/packages/apps/Launcher3" />
   <project path="packages/apps/Launcher3" name="OmniROM/android_packages_apps_Launcher3" remote="github" revision="android-7.1" />
   <remove-project name="platform/packages/apps/Messaging" />
-  <project path="packages/apps/Messaging" name="DirtyUnicorns/android_packages_apps_Messaging" remote="github" revision="n7x" />
+  <project path="packages/apps/Messaging" name="OmniROM/android_packages_apps_Messaging" remote="github" revision="android-7.1" />
   <remove-project name="platform/packages/apps/MusicFX" />
   <project path="packages/apps/MusicFX" name="OmniROM/android_packages_apps_MusicFX" remote="github" revision="android-7.1" />
   <project path="packages/apps/OmniStyle" name="PureNexusProject/android_packages_apps_OmniStyle" remote="github" revision="n-mr1" /> 
