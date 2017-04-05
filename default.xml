@@ -8,7 +8,7 @@
           fetch="https://bitbucket.org/" />
   <remote name="eucos"
           fetch="https://github.com/EuclideanOS"
-          revision="nougat-mr1" /> 
+          revision="nougat-mr2" /> 
   <remote name="devices"
           fetch="https://github.com/EuclideanOS-Devices" />
   <remote name="github"

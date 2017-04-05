@@ -132,7 +132,7 @@
   <remove-project name="platform/system/media" />
   <project path="system/media" name="OmniROM/android_system_media" groups="pdk" remote="github" revision="android-7.1" />
   <remove-project name="platform/system/sepolicy" />
-  <project path="system/sepolicy" name="Krexus/system_sepolicy" groups="pdk" remote="github" revision="n+" />
+  <project path="system/sepolicy" name="android_system_sepolicy" groups="pdk" remote="eucos" />
   <remove-project name="platform/system/vold" />
   <project path="system/vold" name="android_system_vold" remote="eucos" /> 
 
