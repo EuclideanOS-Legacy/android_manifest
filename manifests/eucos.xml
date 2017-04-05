@@ -8,8 +8,8 @@
   <project path="build" name="android_build" remote="eucos">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
-  <remove-project name="platform/build/kati" />
-  <project path="build/kati" name="AOSPA/android_build_kati" remote="github" revision="nougat-mr1" />
+  <!--remove-project name="platform/build/kati" />
+  <project path="build/kati" name="AOSPA/android_build_kati" remote="github" revision="nougat-mr1" /-->
   <remove-project name="platform/bootable/recovery" />
   <project path="bootable/recovery" name="PureNexusProject/android_bootable_recovery" groups="pdk" remote="github" revision="n-mr1" />
 
@@ -101,9 +101,9 @@
   <project path="packages/providers/MediaProvider" name="PureNexusProject/android_packages_providers_MediaProvider" groups="pdk-cw-fs,pdk-fs" remote="github" revision="n-mr1" />
   <project path="packages/services/OmniJaws" name="DirtyUnicorns/android_packages_services_OmniJaws" remote="github" revision="n7x" />
 
-  <!-- External -->
+  <!-- External --> 
   <project path="external/busybox" name="PureNexusProject/android_external_busybox" remote="github" revision="n-mr1" />
-  <remove-project name="platform/external/e2fsprogs" />
+  <!--remove-project name="platform/external/e2fsprogs" />
   <project path="external/e2fsprogs" name="AOSPA/android_external_e2fsprogs" remote="github" revision="nougat-mr1" />
   <remove-project name="platform/external/f2fs-tools" />
   <project path="external/f2fs-tools" name="AOSPA/android_external_f2fs-tools" remote="github" revision="nougat-mr1" />
@@ -122,7 +122,7 @@
   <remove-project name="platform/external/sqlite" />
   <project path="external/sqlite" name="AOSPA/android_external_sqlite" remote="github" revision="nougat-mr1" />
   <remove-project name="platform/external/zlib" />
-  <project path="external/zlib" name="AOSPA/android_external_zlib" remote="github" revision="nougat-mr1" />
+  <project path="external/zlib" name="AOSPA/android_external_zlib" remote="github" revision="nougat-mr1" /-->
 
   <!-- System -->
   <remove-project name="platform/system/core" />
