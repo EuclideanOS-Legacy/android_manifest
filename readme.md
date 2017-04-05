@@ -41,7 +41,7 @@ $ cd WORKSPACE
 
 # Install Repo in the created directory
 # Use a real name/email combination, if you intend to submit patches
-$ repo init -u https://github.com/EuclideanOS/android_manifest -b nougat-mr1
+$ repo init -u https://github.com/EuclideanOS/android_manifest -b nougat-mr2
 ```
 
 ### Downloading the source tree ###
@@ -110,8 +110,8 @@ This means that you are allowed to modify the aforementioned assets in any way y
 you are free to share the originals and/or the modified work. However, you are not allowed
 to use the assets for commercial purposes and you must provide attribution at all times which
 means you have to include a short note about the license used (CC BY-NC 4.0), the original
-author/authors (Paranoid Android Project or AOSPA) and inform about any changes that have been
-made. A link to the [website](http://aospa.co/) should usually be included as well.
+author/authors (Euclidean OS) and inform about any changes that have been
+made. A link to the [website](http://euclideanos.github.io/) should usually be included as well.
 
 You can reach the full legal text at http://creativecommons.org/licenses/by-nc/4.0/
 
