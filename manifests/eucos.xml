@@ -101,19 +101,19 @@
 
   <!-- External --> 
   <project path="external/busybox" name="PureNexusProject/android_external_busybox" remote="github" revision="n-mr2" />
-  <!--remove-project name="platform/external/e2fsprogs" />
+  <remove-project name="platform/external/e2fsprogs" />
   <project path="external/e2fsprogs" name="AOSPA/android_external_e2fsprogs" remote="github" revision="nougat-mr1" />
   <remove-project name="platform/external/f2fs-tools" />
   <project path="external/f2fs-tools" name="AOSPA/android_external_f2fs-tools" remote="github" revision="nougat-mr1" />
-  <remove-project name="platform/external/libnfc-nci" />
+  <!--remove-project name="platform/external/libnfc-nci" />
   <project path="external/libnfc-nci" name="AOSPA/android_external_libnfc-nci" remote="github" revision="nougat-mr1" />
   <remove-project name="platform/external/libjpeg-turbo" />
   <project path="external/libjpeg-turbo" name="AOSPA/android_external_libjpeg-turbo" remote="github" revision="nougat-mr1" />
   <remove-project name="platform/external/libpng" />
-  <project path="external/libpng" name="AOSPA/android_external_libpng" remote="github" revision="nougat-mr1" />
+  <project path="external/libpng" name="AOSPA/android_external_libpng" remote="github" revision="nougat-mr1" /-->
   <remove-project name="platform/external/llvm" />
-  <project path="external/llvm" name="CopperheadOS/platform_external_llvm" groups="pdk" remote="github" revision="nougat-mr1.1-release" />
-  <remove-project name="platform/external/skia" />
+  <project path="external/llvm" name="CopperheadOS/platform_external_llvm" groups="pdk" remote="github" revision="nougat-mr2-release" />
+  <!--remove-project name="platform/external/skia" />
   <project path="external/skia" name="android_external_skia" remote="eucos" />
   <remove-project name="platform/external/jemalloc" />
   <project path="external/jemalloc" name="AOSPA/android_external_jemalloc" remote="github" revision="nougat-mr1" />
