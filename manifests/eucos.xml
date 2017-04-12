@@ -70,9 +70,9 @@
   <remove-project name="platform/packages/apps/CellBroadcastReceiver" />
   <project path="packages/apps/CellBroadcastReceiver" name="PureNexusProject-Legacy/android_packages_apps_CellBroadcastReceiver" groups="pdk-fs" remote="github" revision="n-mr1" />
   <remove-project name="platform/packages/apps/Contacts" />
-  <project path="packages/apps/Contacts" name="DirtyUnicorns/android_packages_apps_Contacts" remote="github" revision="n7x" />
+  <project path="packages/apps/Contacts" name="OmniROM/android_packages_apps_Contacts" remote="github" revision="android-7.1" />
   <remove-project name="platform/packages/apps/ContactsCommon" />
-  <project path="packages/apps/ContactsCommon" name="DirtyUnicorns/android_packages_apps_ContactsCommon" remote="github" revision="n7x" />
+  <project path="packages/apps/ContactsCommon" name="OmniROM/android_packages_apps_ContactsCommon" remote="github" revision="android-7.1" />
   <remove-project name="platform/packages/apps/Phone" />
   <project path="packages/apps/DSPManager" name="OmniROM/android_packages_apps_DSPManager" remote="github" revision="android-7.1" />
   <remove-project name="platform/packages/apps/Gallery2" />
@@ -142,7 +142,7 @@
 
   <!-- Telephony -->
   <remove-project name="platform/packages/apps/Dialer" />
-  <project path="packages/apps/Dialer" name="DirtyUnicorns/android_packages_apps_Dialer" remote="github" revision="n7x" />
+  <project path="packages/apps/Dialer" name="OmniROM/android_packages_apps_Dialer" remote="github" revision="android-7.1" />
   <remove-project name="platform/packages/services/Telecomm" />
   <project path="packages/services/Telecomm" name="PureNexusProject-Legacy/android_packages_services_Telecomm" groups="pdk-cw-fs,pdk-fs" remote="github" revision="n-mr1" />
   <remove-project name="platform/packages/services/Telephony" />
