@@ -7,7 +7,7 @@
   <remote name="bb"
           fetch="https://bitbucket.org/" />
   <remote name="eucos"
-          fetch="https://github.com/EuclideanOS"
+          fetch="https://github.com/EuclideanOS-Legacy"
           revision="nougat-mr1" /> 
   <remote name="devices"
           fetch="https://github.com/EuclideanOS-Devices" />
